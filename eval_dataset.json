@@ -1,0 +1,6 @@
+[
+  {
+    "question": "What is the main conclusion of the document?",
+    "expected_sources": ["replace-with-your-file.pdf"]
+  }
+]
